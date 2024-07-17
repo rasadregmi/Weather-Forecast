@@ -1,6 +1,6 @@
 {
   "homepage": "https://rasadregmi.github.io/Weather-Forecast/",
-  "name": "Weather-Forecast",
+  "name": "weather-forecast",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -37,10 +37,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh": "^2.8.9",
-    "gh-pages": "^6.1.1",
-    "pages": "^0.0.16"
   }
 }
