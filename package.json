@@ -1,6 +1,6 @@
 {
-  "homepage": "https://rasadregmi.github.io/Password-Generator/",
-  "name": "password-generator",
+  "homepage": "https://rasadregmi.github.io/Weather-Forecast/",
+  "name": "Weather-Forecast",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
